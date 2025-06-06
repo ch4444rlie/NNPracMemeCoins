@@ -1,0 +1,2 @@
+General error for dogecoin from 2024-12-01 to 2025-01-30: {'timestamp': '2025-05-01T21:28:36.708+00:00', 'error_code': 10011, 'status': {'error_message': 'If you are using Demo API key, please change your root URL  from pro-api.coingecko.com to api.coingecko.com  Please refer here for more details: https://docs.coingecko.com/v3.0.1/reference/introduction'}}
+HTTP error for trump from 2025-01-15 to 2025-04-30: 404 Client Error: Not Found for url: https://api.coingecko.com/api/v3/coins/trump/market_chart/range?vs_currency=usd&from=1736920800&to=1745989200
